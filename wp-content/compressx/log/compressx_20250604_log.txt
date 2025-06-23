@@ -1,0 +1,41 @@
+[2025-06-04 14:21:35][notice]Add attachment images id:104
+====================================================
+open log file: 2025-06-04 14:21:35
+[2025-06-04 14:21:35][notice]Start optimizing new media images id:104
+[2025-06-04 14:21:35][notice]Start resizing image id:104
+[2025-06-04 14:21:38][notice]Start WebP conversion web-design-3411373-scaled.jpg
+[2025-06-04 14:21:39][notice]Converting web-design-3411373-scaled.jpg to WebP succeeded.
+[2025-06-04 14:21:39][notice]Start WebP conversion web-design-3411373-300x200.jpg
+[2025-06-04 14:21:39][notice]Converting web-design-3411373-300x200.jpg to WebP succeeded.
+[2025-06-04 14:21:39][notice]Start WebP conversion web-design-3411373-1024x683.jpg
+[2025-06-04 14:21:39][notice]Converting web-design-3411373-1024x683.jpg to WebP succeeded.
+[2025-06-04 14:21:39][notice]Start WebP conversion web-design-3411373-150x150.jpg
+[2025-06-04 14:21:39][notice]Converting web-design-3411373-150x150.jpg to WebP succeeded.
+[2025-06-04 14:21:39][notice]Start WebP conversion web-design-3411373-768x512.jpg
+[2025-06-04 14:21:39][notice]Converting web-design-3411373-768x512.jpg to WebP succeeded.
+[2025-06-04 14:21:39][notice]Start WebP conversion web-design-3411373-1536x1024.jpg
+[2025-06-04 14:21:39][notice]Converting web-design-3411373-1536x1024.jpg to WebP succeeded.
+[2025-06-04 14:21:39][notice]Start WebP conversion web-design-3411373-2048x1365.jpg
+[2025-06-04 14:21:39][notice]Converting web-design-3411373-2048x1365.jpg to WebP succeeded.
+[2025-06-04 14:21:39][notice]Start WebP conversion web-design-3411373-800x600.jpg
+[2025-06-04 14:21:39][notice]Converting web-design-3411373-800x600.jpg to WebP succeeded.
+[2025-06-04 14:21:46][notice]Add attachment images id:105
+====================================================
+open log file: 2025-06-04 14:21:46
+[2025-06-04 14:21:46][notice]Start optimizing new media images id:105
+[2025-06-04 14:21:46][notice]Start WebP conversion code-1839406-scaled.jpg
+[2025-06-04 14:21:47][notice]Converting code-1839406-scaled.jpg to WebP succeeded.
+[2025-06-04 14:21:47][notice]Start WebP conversion code-1839406-300x200.jpg
+[2025-06-04 14:21:47][notice]Converting code-1839406-300x200.jpg to WebP succeeded.
+[2025-06-04 14:21:47][notice]Start WebP conversion code-1839406-1024x684.jpg
+[2025-06-04 14:21:47][notice]Converting code-1839406-1024x684.jpg to WebP succeeded.
+[2025-06-04 14:21:47][notice]Start WebP conversion code-1839406-150x150.jpg
+[2025-06-04 14:21:47][notice]Converting code-1839406-150x150.jpg to WebP succeeded.
+[2025-06-04 14:21:47][notice]Start WebP conversion code-1839406-768x513.jpg
+[2025-06-04 14:21:47][notice]Converting code-1839406-768x513.jpg to WebP succeeded.
+[2025-06-04 14:21:47][notice]Start WebP conversion code-1839406-1536x1025.jpg
+[2025-06-04 14:21:47][notice]Converting code-1839406-1536x1025.jpg to WebP succeeded.
+[2025-06-04 14:21:47][notice]Start WebP conversion code-1839406-2048x1367.jpg
+[2025-06-04 14:21:48][notice]Converting code-1839406-2048x1367.jpg to WebP succeeded.
+[2025-06-04 14:21:48][notice]Start WebP conversion code-1839406-800x600.jpg
+[2025-06-04 14:21:48][notice]Converting code-1839406-800x600.jpg to WebP succeeded.

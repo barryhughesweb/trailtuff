@@ -1,0 +1,10 @@
+[2025-06-08 18:15:02][notice]Add attachment images id:111
+====================================================
+open log file: 2025-06-08 18:15:02
+[2025-06-08 18:15:02][notice]Start optimizing new media images id:111
+[2025-06-08 18:15:02][notice]Start WebP conversion logo.png
+[2025-06-08 18:15:02][notice]Converting logo.png to WebP succeeded.
+[2025-06-08 18:15:02][notice]Start WebP conversion logo-300x145.png
+[2025-06-08 18:15:02][notice]Converting logo-300x145.png to WebP succeeded.
+[2025-06-08 18:15:02][notice]Start WebP conversion logo-150x150.png
+[2025-06-08 18:15:02][notice]Converting logo-150x150.png to WebP succeeded.

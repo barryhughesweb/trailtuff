@@ -1,0 +1,14 @@
+[2025-06-20 10:01:35][notice]Add attachment images id:240
+====================================================
+open log file: 2025-06-20 10:01:35
+[2025-06-20 10:01:35][notice]Start optimizing new media images id:240
+[2025-06-20 10:01:35][notice]Start WebP conversion logo-500.png
+[2025-06-20 10:01:35][notice]Converting logo-500.png to WebP succeeded.
+[2025-06-20 10:01:35][notice]Start WebP conversion logo-500-300x300.png
+[2025-06-20 10:01:35][notice]Converting logo-500-300x300.png to WebP succeeded.
+[2025-06-20 10:01:35][notice]Start WebP conversion logo-500-150x150.png
+[2025-06-20 10:01:35][notice]Converting logo-500-150x150.png to WebP succeeded.
+[2025-06-20 10:01:35][notice]Start WebP conversion logo-500-300x300.png
+[2025-06-20 10:01:35][notice]Converting logo-500-300x300.png to WebP succeeded.
+[2025-06-20 10:01:35][notice]Start WebP conversion logo-500-100x100.png
+[2025-06-20 10:01:35][notice]Converting logo-500-100x100.png to WebP succeeded.

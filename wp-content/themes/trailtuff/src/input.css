@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+@import "tailwindcss";
+
+@layer base {
+  html {
+    font-family: 'Figtree', sans-serif;
+  }
+}
+
+@theme {
+    --color-redmain: #DD0000;
+    --color-browndark: #493F33;
+    --color-brownlighter: #F5F3F0;
+    --color-brownlight: #EAE3D3;
+    --color-brownmedium: #968372;
+}
+
+@layer components {
+  .swiper-pagination-bullet-active {
+    background-color: white !important;
+  }
+  .swiper-button-next:after, .swiper-button-prev:after {
+    font-size: 30px!important;
+  }
+  .bg-nav-pattern::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: url('/wp-content/themes/trailtuff/assets/img/nav-background.svg');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    pointer-events: none;
+    z-index: 0;
+  }
+  .bg-label-today {
+    background-image: url('/wp-content/themes/trailtuff/assets/img/ends-red.svg');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .bg-label-future {
+    background-image: url('/wp-content/themes/trailtuff/assets/img/ends-brown.svg');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .news-title {
+    clip-path: polygon( 10% 0%, 100% calc(10% - 40px), calc(100% - 40px) 100%, 0% 100%, 0% 0%);
+  }
+  @media only screen and (min-width: 768px) {
+    .countdown-box {
+      clip-path: polygon(20px 0%, 100% 0%, 100% 100%, 0% 100%);
+    }
+  }
+}
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-scroll-x {
+  display: inline-flex; /* keep children inline-flex */
+  white-space: nowrap;
+  animation: scroll-left 20s linear infinite;
+}
+
+.animate-scroll-x > * {
+  flex: 0 0 auto; /* don't shrink children */
+}
+
+/* Duplicate the content inside the container by cloning it visually */
+.animate-scroll-x::after {
+  content: attr(data-content);
+  display: inline-flex;
+  padding-left: 40px;
+}

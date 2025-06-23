@@ -1,0 +1,129 @@
+[2025-06-18 15:42:47][notice]Add attachment images id:188
+====================================================
+open log file: 2025-06-18 15:42:47
+[2025-06-18 15:42:47][notice]Start optimizing new media images id:188
+[2025-06-18 15:42:47][notice]Start WebP conversion hero-slider-background-image.jpg
+[2025-06-18 15:42:47][notice]Converting hero-slider-background-image.jpg to WebP succeeded.
+[2025-06-18 15:42:47][notice]Start WebP conversion hero-slider-background-image-300x162.jpg
+[2025-06-18 15:42:47][notice]Converting hero-slider-background-image-300x162.jpg to WebP succeeded.
+[2025-06-18 15:42:47][notice]Start WebP conversion hero-slider-background-image-1024x553.jpg
+[2025-06-18 15:42:48][notice]Converting hero-slider-background-image-1024x553.jpg to WebP succeeded.
+[2025-06-18 15:42:48][notice]Start WebP conversion hero-slider-background-image-150x150.jpg
+[2025-06-18 15:42:48][notice]Converting hero-slider-background-image-150x150.jpg to WebP succeeded.
+[2025-06-18 15:42:48][notice]Start WebP conversion hero-slider-background-image-768x415.jpg
+[2025-06-18 15:42:48][notice]Converting hero-slider-background-image-768x415.jpg to WebP succeeded.
+[2025-06-18 15:42:48][notice]Start WebP conversion hero-slider-background-image-1536x830.jpg
+[2025-06-18 15:42:48][notice]Converting hero-slider-background-image-1536x830.jpg to WebP succeeded.
+[2025-06-18 15:42:48][notice]Start WebP conversion hero-slider-background-image-800x600.jpg
+[2025-06-18 15:42:48][notice]Converting hero-slider-background-image-800x600.jpg to WebP succeeded.
+[2025-06-18 15:42:48][notice]Start WebP conversion hero-slider-background-image-300x300.jpg
+[2025-06-18 15:42:48][notice]Converting hero-slider-background-image-300x300.jpg to WebP succeeded.
+[2025-06-18 15:42:48][notice]Start WebP conversion hero-slider-background-image-600x324.jpg
+[2025-06-18 15:42:48][notice]Converting hero-slider-background-image-600x324.jpg to WebP succeeded.
+[2025-06-18 15:42:48][notice]Start WebP conversion hero-slider-background-image-100x100.jpg
+[2025-06-18 15:42:48][notice]Converting hero-slider-background-image-100x100.jpg to WebP succeeded.
+====================================================
+open log file: 2025-06-18 17:25:32
+[2025-06-18 17:25:32][notice]Scanning images: 1 found 
+[2025-06-18 17:25:34][notice]Start optimizing images: id:102
+[2025-06-18 17:25:34][notice]Start WebP conversion web-design-3411373_1920.jpg
+[2025-06-18 17:25:34][notice]Converting web-design-3411373_1920.jpg to WebP succeeded.
+[2025-06-18 17:25:34][notice]Start WebP conversion web-design-3411373_1920-300x200.jpg
+[2025-06-18 17:25:34][notice]Converting web-design-3411373_1920-300x200.jpg to WebP succeeded.
+[2025-06-18 17:25:34][notice]Start WebP conversion web-design-3411373_1920-1024x683.jpg
+[2025-06-18 17:25:35][notice]Converting web-design-3411373_1920-1024x683.jpg to WebP succeeded.
+[2025-06-18 17:25:35][notice]Start WebP conversion web-design-3411373_1920-150x150.jpg
+[2025-06-18 17:25:35][notice]Converting web-design-3411373_1920-150x150.jpg to WebP succeeded.
+[2025-06-18 17:25:35][notice]Start WebP conversion web-design-3411373_1920-768x512.jpg
+[2025-06-18 17:25:35][notice]Converting web-design-3411373_1920-768x512.jpg to WebP succeeded.
+[2025-06-18 17:25:35][notice]Start WebP conversion web-design-3411373_1920-1536x1024.jpg
+[2025-06-18 17:25:35][notice]Converting web-design-3411373_1920-1536x1024.jpg to WebP succeeded.
+[2025-06-18 17:25:35][notice]Start WebP conversion web-design-3411373_1920-800x600.jpg
+[2025-06-18 17:25:35][notice]Converting web-design-3411373_1920-800x600.jpg to WebP succeeded.
+[2025-06-18 17:25:35][notice]Optimizing image id:102 succeeded.
+[2025-06-18 20:09:34][notice]Add attachment images id:194
+====================================================
+open log file: 2025-06-18 20:09:34
+[2025-06-18 20:09:34][notice]Start optimizing new media images id:194
+[2025-06-18 20:09:34][notice]Start Compression hero-slider-background-image.webp
+[2025-06-18 20:09:35][notice]Compression hero-slider-background-image.webp succeeded.
+[2025-06-18 20:09:35][notice]Start Compression hero-slider-background-image-300x162.webp
+[2025-06-18 20:09:35][notice]Compression hero-slider-background-image-300x162.webp succeeded.
+[2025-06-18 20:09:35][notice]Start Compression hero-slider-background-image-1024x553.webp
+[2025-06-18 20:09:35][notice]Compression hero-slider-background-image-1024x553.webp succeeded.
+[2025-06-18 20:09:35][notice]Start Compression hero-slider-background-image-150x150.webp
+[2025-06-18 20:09:35][notice]Compression hero-slider-background-image-150x150.webp succeeded.
+[2025-06-18 20:09:35][notice]Start Compression hero-slider-background-image-768x415.webp
+[2025-06-18 20:09:35][notice]Compression hero-slider-background-image-768x415.webp succeeded.
+[2025-06-18 20:09:35][notice]Start Compression hero-slider-background-image-1536x830.webp
+[2025-06-18 20:09:35][notice]Compression hero-slider-background-image-1536x830.webp succeeded.
+[2025-06-18 20:09:35][notice]Start Compression hero-slider-background-image-800x600.webp
+[2025-06-18 20:09:35][notice]Compression hero-slider-background-image-800x600.webp succeeded.
+[2025-06-18 20:09:35][notice]Start Compression hero-slider-background-image-300x300.webp
+[2025-06-18 20:09:35][notice]Compression hero-slider-background-image-300x300.webp succeeded.
+[2025-06-18 20:09:35][notice]Start Compression hero-slider-background-image-600x324.webp
+[2025-06-18 20:09:35][notice]Compression hero-slider-background-image-600x324.webp succeeded.
+[2025-06-18 20:09:35][notice]Start Compression hero-slider-background-image-100x100.webp
+[2025-06-18 20:09:35][notice]Compression hero-slider-background-image-100x100.webp succeeded.
+[2025-06-18 20:11:26][notice]Add attachment images id:195
+====================================================
+open log file: 2025-06-18 20:11:26
+[2025-06-18 20:11:26][notice]Start optimizing new media images id:195
+[2025-06-18 20:11:26][notice]Start Compression logo.webp
+[2025-06-18 20:11:26][notice]Compression logo.webp succeeded.
+[2025-06-18 20:11:26][notice]Start Compression logo-300x145.webp
+[2025-06-18 20:11:26][notice]Compression logo-300x145.webp succeeded.
+[2025-06-18 20:11:26][notice]Start Compression logo-150x150.webp
+[2025-06-18 20:11:26][notice]Compression logo-150x150.webp succeeded.
+[2025-06-18 20:11:26][notice]Start Compression logo-300x242.webp
+[2025-06-18 20:11:26][notice]Compression logo-300x242.webp succeeded.
+[2025-06-18 20:11:26][notice]Start Compression logo-100x100.webp
+[2025-06-18 20:11:26][notice]Compression logo-100x100.webp succeeded.
+[2025-06-18 20:11:31][notice]Add attachment images id:196
+====================================================
+open log file: 2025-06-18 20:11:31
+[2025-06-18 20:11:31][notice]Start optimizing new media images id:196
+[2025-06-18 20:11:31][notice]Start Compression background.webp
+[2025-06-18 20:11:32][notice]Compression background.webp succeeded.
+[2025-06-18 20:11:32][notice]Start Compression background-300x164.webp
+[2025-06-18 20:11:32][notice]Compression background-300x164.webp succeeded.
+[2025-06-18 20:11:32][notice]Start Compression background-1024x561.webp
+[2025-06-18 20:11:32][notice]Compression background-1024x561.webp succeeded.
+[2025-06-18 20:11:32][notice]Start Compression background-150x150.webp
+[2025-06-18 20:11:32][notice]Compression background-150x150.webp succeeded.
+[2025-06-18 20:11:32][notice]Start Compression background-768x421.webp
+[2025-06-18 20:11:32][notice]Compression background-768x421.webp succeeded.
+[2025-06-18 20:11:32][notice]Start Compression background-1536x841.webp
+[2025-06-18 20:11:32][notice]Compression background-1536x841.webp succeeded.
+[2025-06-18 20:11:32][notice]Start Compression background-800x600.webp
+[2025-06-18 20:11:32][notice]Compression background-800x600.webp succeeded.
+[2025-06-18 20:11:32][notice]Start Compression background-300x300.webp
+[2025-06-18 20:11:32][notice]Compression background-300x300.webp succeeded.
+[2025-06-18 20:11:32][notice]Start Compression background-600x329.webp
+[2025-06-18 20:11:32][notice]Compression background-600x329.webp succeeded.
+[2025-06-18 20:11:32][notice]Start Compression background-100x100.webp
+[2025-06-18 20:11:32][notice]Compression background-100x100.webp succeeded.
+[2025-06-18 20:11:34][notice]Add attachment images id:197
+====================================================
+open log file: 2025-06-18 20:11:34
+[2025-06-18 20:11:34][notice]Start optimizing new media images id:197
+[2025-06-18 20:11:34][notice]Start Compression hero-slider-background-image-1.webp
+[2025-06-18 20:11:35][notice]Compression hero-slider-background-image-1.webp succeeded.
+[2025-06-18 20:11:35][notice]Start Compression hero-slider-background-image-1-300x162.webp
+[2025-06-18 20:11:35][notice]Compression hero-slider-background-image-1-300x162.webp succeeded.
+[2025-06-18 20:11:35][notice]Start Compression hero-slider-background-image-1-1024x553.webp
+[2025-06-18 20:11:35][notice]Compression hero-slider-background-image-1-1024x553.webp succeeded.
+[2025-06-18 20:11:35][notice]Start Compression hero-slider-background-image-1-150x150.webp
+[2025-06-18 20:11:35][notice]Compression hero-slider-background-image-1-150x150.webp succeeded.
+[2025-06-18 20:11:35][notice]Start Compression hero-slider-background-image-1-768x415.webp
+[2025-06-18 20:11:35][notice]Compression hero-slider-background-image-1-768x415.webp succeeded.
+[2025-06-18 20:11:35][notice]Start Compression hero-slider-background-image-1-1536x830.webp
+[2025-06-18 20:11:35][notice]Compression hero-slider-background-image-1-1536x830.webp succeeded.
+[2025-06-18 20:11:35][notice]Start Compression hero-slider-background-image-1-800x600.webp
+[2025-06-18 20:11:35][notice]Compression hero-slider-background-image-1-800x600.webp succeeded.
+[2025-06-18 20:11:35][notice]Start Compression hero-slider-background-image-1-300x300.webp
+[2025-06-18 20:11:35][notice]Compression hero-slider-background-image-1-300x300.webp succeeded.
+[2025-06-18 20:11:35][notice]Start Compression hero-slider-background-image-1-600x324.webp
+[2025-06-18 20:11:35][notice]Compression hero-slider-background-image-1-600x324.webp succeeded.
+[2025-06-18 20:11:35][notice]Start Compression hero-slider-background-image-1-100x100.webp
+[2025-06-18 20:11:35][notice]Compression hero-slider-background-image-1-100x100.webp succeeded.

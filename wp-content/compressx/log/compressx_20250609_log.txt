@@ -1,0 +1,53 @@
+[2025-06-09 11:08:49][notice]Add attachment images id:112
+====================================================
+open log file: 2025-06-09 11:08:49
+[2025-06-09 11:08:49][notice]Start optimizing new media images id:112
+[2025-06-09 11:08:49][notice]Start WebP conversion woocommerce-placeholder.png
+[2025-06-09 11:08:49][notice]Converting woocommerce-placeholder.png to WebP succeeded.
+[2025-06-09 11:08:49][notice]Start WebP conversion woocommerce-placeholder-300x300.png
+[2025-06-09 11:08:49][notice]Converting woocommerce-placeholder-300x300.png to WebP succeeded.
+[2025-06-09 11:08:49][notice]Start WebP conversion woocommerce-placeholder-1024x1024.png
+[2025-06-09 11:08:49][notice]Converting woocommerce-placeholder-1024x1024.png to WebP succeeded.
+[2025-06-09 11:08:49][notice]Start WebP conversion woocommerce-placeholder-150x150.png
+[2025-06-09 11:08:49][notice]Converting woocommerce-placeholder-150x150.png to WebP succeeded.
+[2025-06-09 11:08:49][notice]Start WebP conversion woocommerce-placeholder-768x768.png
+[2025-06-09 11:08:50][notice]Converting woocommerce-placeholder-768x768.png to WebP succeeded.
+[2025-06-09 11:08:50][notice]Start WebP conversion woocommerce-placeholder-800x600.png
+[2025-06-09 11:08:50][notice]Converting woocommerce-placeholder-800x600.png to WebP succeeded.
+[2025-06-09 11:14:43][notice]Add attachment images id:119
+[2025-06-09 11:14:46][notice]Add attachment images id:120
+[2025-06-09 11:15:12][notice]Add attachment images id:121
+[2025-06-09 11:15:14][notice]Add attachment images id:122
+[2025-06-09 11:15:16][notice]Add attachment images id:123
+[2025-06-09 11:15:18][notice]Add attachment images id:124
+[2025-06-09 11:15:20][notice]Add attachment images id:125
+[2025-06-09 11:15:32][notice]Add attachment images id:126
+[2025-06-09 11:15:33][notice]Add attachment images id:127
+[2025-06-09 11:15:35][notice]Add attachment images id:128
+[2025-06-09 11:15:37][notice]Add attachment images id:129
+[2025-06-09 11:29:06][notice]Add attachment images id:146
+[2025-06-09 11:29:09][notice]Add attachment images id:147
+[2025-06-09 14:50:31][notice]Add attachment images id:163
+====================================================
+open log file: 2025-06-09 14:50:31
+[2025-06-09 14:50:31][notice]Start optimizing new media images id:163
+[2025-06-09 14:50:31][notice]Start WebP conversion background.jpg
+[2025-06-09 14:50:32][notice]Converting background.jpg to WebP succeeded.
+[2025-06-09 14:50:32][notice]Start WebP conversion background-300x164.jpg
+[2025-06-09 14:50:32][notice]Converting background-300x164.jpg to WebP succeeded.
+[2025-06-09 14:50:32][notice]Start WebP conversion background-1024x561.jpg
+[2025-06-09 14:50:32][notice]Converting background-1024x561.jpg to WebP succeeded.
+[2025-06-09 14:50:32][notice]Start WebP conversion background-150x150.jpg
+[2025-06-09 14:50:32][notice]Converting background-150x150.jpg to WebP succeeded.
+[2025-06-09 14:50:32][notice]Start WebP conversion background-768x421.jpg
+[2025-06-09 14:50:32][notice]Converting background-768x421.jpg to WebP succeeded.
+[2025-06-09 14:50:32][notice]Start WebP conversion background-1536x841.jpg
+[2025-06-09 14:50:32][notice]Converting background-1536x841.jpg to WebP succeeded.
+[2025-06-09 14:50:32][notice]Start WebP conversion background-800x600.jpg
+[2025-06-09 14:50:32][notice]Converting background-800x600.jpg to WebP succeeded.
+[2025-06-09 14:50:32][notice]Start WebP conversion background-300x300.jpg
+[2025-06-09 14:50:32][notice]Converting background-300x300.jpg to WebP succeeded.
+[2025-06-09 14:50:32][notice]Start WebP conversion background-600x329.jpg
+[2025-06-09 14:50:32][notice]Converting background-600x329.jpg to WebP succeeded.
+[2025-06-09 14:50:32][notice]Start WebP conversion background-100x100.jpg
+[2025-06-09 14:50:32][notice]Converting background-100x100.jpg to WebP succeeded.

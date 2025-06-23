@@ -1,0 +1,785 @@
+Log created: 2025-05-29 19:50:28
+Type: transfer
+[2025-05-29 19:50:28][notice]server info fcgi:Off max execution time: 300 wp version:6.8.1 php version:8.3.20 db version:10.11.10 php ini:safe_mode: memory_limit:2048M memory_get_usage:2.02 MB memory_get_peak_usage:2.34 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2025-05-29 19:50:28][notice]Connect site success
+[2025-05-29 19:50:32][notice]start upload.
+[2025-05-29 19:50:32][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:0 B
+[2025-05-29 19:50:32][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:2097152
+[2025-05-29 19:50:32][notice]continue size:2097152 size1:171475544
+[2025-05-29 19:50:34][notice]start upload.
+[2025-05-29 19:50:34][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:2 MB
+[2025-05-29 19:50:34][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:4194304
+[2025-05-29 19:50:34][notice]continue size:4194304 size1:171475544
+[2025-05-29 19:50:36][notice]start upload.
+[2025-05-29 19:50:36][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:4 MB
+[2025-05-29 19:50:36][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:6291456
+[2025-05-29 19:50:36][notice]continue size:6291456 size1:171475544
+[2025-05-29 19:50:38][notice]start upload.
+[2025-05-29 19:50:38][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:6 MB
+[2025-05-29 19:50:38][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:8388608
+[2025-05-29 19:50:38][notice]continue size:8388608 size1:171475544
+[2025-05-29 19:50:40][notice]start upload.
+[2025-05-29 19:50:40][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:8 MB
+[2025-05-29 19:50:40][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:10485760
+[2025-05-29 19:50:40][notice]continue size:10485760 size1:171475544
+[2025-05-29 19:50:42][notice]start upload.
+[2025-05-29 19:50:42][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:10 MB
+[2025-05-29 19:50:42][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:12582912
+[2025-05-29 19:50:42][notice]continue size:12582912 size1:171475544
+[2025-05-29 19:50:44][notice]start upload.
+[2025-05-29 19:50:44][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:12 MB
+[2025-05-29 19:50:44][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:14680064
+[2025-05-29 19:50:44][notice]continue size:14680064 size1:171475544
+[2025-05-29 19:50:47][notice]start upload.
+[2025-05-29 19:50:47][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:14 MB
+[2025-05-29 19:50:47][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:16777216
+[2025-05-29 19:50:47][notice]continue size:16777216 size1:171475544
+[2025-05-29 19:50:49][notice]start upload.
+[2025-05-29 19:50:49][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:16 MB
+[2025-05-29 19:50:49][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:18874368
+[2025-05-29 19:50:49][notice]continue size:18874368 size1:171475544
+[2025-05-29 19:50:52][notice]start upload.
+[2025-05-29 19:50:52][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:18 MB
+[2025-05-29 19:50:52][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:20971520
+[2025-05-29 19:50:52][notice]continue size:20971520 size1:171475544
+[2025-05-29 19:50:54][notice]start upload.
+[2025-05-29 19:50:54][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:20 MB
+[2025-05-29 19:50:54][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:23068672
+[2025-05-29 19:50:54][notice]continue size:23068672 size1:171475544
+[2025-05-29 19:50:56][notice]start upload.
+[2025-05-29 19:50:56][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:22 MB
+[2025-05-29 19:50:56][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:25165824
+[2025-05-29 19:50:56][notice]continue size:25165824 size1:171475544
+[2025-05-29 19:50:58][notice]start upload.
+[2025-05-29 19:50:58][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:24 MB
+[2025-05-29 19:50:58][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:27262976
+[2025-05-29 19:50:58][notice]continue size:27262976 size1:171475544
+[2025-05-29 19:51:00][notice]start upload.
+[2025-05-29 19:51:00][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:26 MB
+[2025-05-29 19:51:00][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:29360128
+[2025-05-29 19:51:00][notice]continue size:29360128 size1:171475544
+[2025-05-29 19:51:02][notice]start upload.
+[2025-05-29 19:51:02][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:28 MB
+[2025-05-29 19:51:02][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:31457280
+[2025-05-29 19:51:02][notice]continue size:31457280 size1:171475544
+[2025-05-29 19:51:04][notice]start upload.
+[2025-05-29 19:51:04][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:30 MB
+[2025-05-29 19:51:04][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:33554432
+[2025-05-29 19:51:04][notice]continue size:33554432 size1:171475544
+[2025-05-29 19:51:06][notice]start upload.
+[2025-05-29 19:51:06][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:32 MB
+[2025-05-29 19:51:06][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:35651584
+[2025-05-29 19:51:06][notice]continue size:35651584 size1:171475544
+[2025-05-29 19:51:08][notice]start upload.
+[2025-05-29 19:51:08][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:34 MB
+[2025-05-29 19:51:08][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:37748736
+[2025-05-29 19:51:08][notice]continue size:37748736 size1:171475544
+[2025-05-29 19:51:10][notice]start upload.
+[2025-05-29 19:51:10][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:36 MB
+[2025-05-29 19:51:10][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:39845888
+[2025-05-29 19:51:10][notice]continue size:39845888 size1:171475544
+[2025-05-29 19:51:12][notice]start upload.
+[2025-05-29 19:51:12][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:38 MB
+[2025-05-29 19:51:12][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:41943040
+[2025-05-29 19:51:12][notice]continue size:41943040 size1:171475544
+[2025-05-29 19:51:14][notice]start upload.
+[2025-05-29 19:51:14][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:40 MB
+[2025-05-29 19:51:14][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:44040192
+[2025-05-29 19:51:14][notice]continue size:44040192 size1:171475544
+[2025-05-29 19:51:17][notice]start upload.
+[2025-05-29 19:51:17][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:42 MB
+[2025-05-29 19:51:17][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:46137344
+[2025-05-29 19:51:17][notice]continue size:46137344 size1:171475544
+[2025-05-29 19:51:19][notice]start upload.
+[2025-05-29 19:51:19][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:44 MB
+[2025-05-29 19:51:19][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:48234496
+[2025-05-29 19:51:19][notice]continue size:48234496 size1:171475544
+[2025-05-29 19:51:21][notice]start upload.
+[2025-05-29 19:51:21][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:46 MB
+[2025-05-29 19:51:21][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:50331648
+[2025-05-29 19:51:21][notice]continue size:50331648 size1:171475544
+[2025-05-29 19:51:23][notice]start upload.
+[2025-05-29 19:51:23][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:48 MB
+[2025-05-29 19:51:23][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:52428800
+[2025-05-29 19:51:23][notice]continue size:52428800 size1:171475544
+[2025-05-29 19:51:25][notice]start upload.
+[2025-05-29 19:51:25][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:50 MB
+[2025-05-29 19:51:25][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:54525952
+[2025-05-29 19:51:25][notice]continue size:54525952 size1:171475544
+[2025-05-29 19:51:27][notice]start upload.
+[2025-05-29 19:51:27][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:52 MB
+[2025-05-29 19:51:27][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:56623104
+[2025-05-29 19:51:27][notice]continue size:56623104 size1:171475544
+[2025-05-29 19:51:29][notice]start upload.
+[2025-05-29 19:51:29][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:54 MB
+[2025-05-29 19:51:29][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:58720256
+[2025-05-29 19:51:29][notice]continue size:58720256 size1:171475544
+[2025-05-29 19:51:32][notice]start upload.
+[2025-05-29 19:51:32][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:56 MB
+[2025-05-29 19:51:32][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:60817408
+[2025-05-29 19:51:32][notice]continue size:60817408 size1:171475544
+[2025-05-29 19:51:34][notice]start upload.
+[2025-05-29 19:51:34][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:58 MB
+[2025-05-29 19:51:34][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:62914560
+[2025-05-29 19:51:34][notice]continue size:62914560 size1:171475544
+[2025-05-29 19:51:36][notice]start upload.
+[2025-05-29 19:51:36][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:60 MB
+[2025-05-29 19:51:36][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:65011712
+[2025-05-29 19:51:36][notice]continue size:65011712 size1:171475544
+[2025-05-29 19:51:38][notice]start upload.
+[2025-05-29 19:51:38][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:62 MB
+[2025-05-29 19:51:38][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:67108864
+[2025-05-29 19:51:38][notice]continue size:67108864 size1:171475544
+[2025-05-29 19:51:41][notice]start upload.
+[2025-05-29 19:51:41][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:64 MB
+[2025-05-29 19:51:41][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:69206016
+[2025-05-29 19:51:41][notice]continue size:69206016 size1:171475544
+[2025-05-29 19:51:43][notice]start upload.
+[2025-05-29 19:51:43][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:66 MB
+[2025-05-29 19:51:43][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:71303168
+[2025-05-29 19:51:43][notice]continue size:71303168 size1:171475544
+[2025-05-29 19:51:45][notice]start upload.
+[2025-05-29 19:51:45][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:68 MB
+[2025-05-29 19:51:45][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:73400320
+[2025-05-29 19:51:45][notice]continue size:73400320 size1:171475544
+[2025-05-29 19:51:47][notice]start upload.
+[2025-05-29 19:51:47][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:70 MB
+[2025-05-29 19:51:47][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:75497472
+[2025-05-29 19:51:47][notice]continue size:75497472 size1:171475544
+[2025-05-29 19:51:49][notice]start upload.
+[2025-05-29 19:51:49][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:72 MB
+[2025-05-29 19:51:49][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:77594624
+[2025-05-29 19:51:49][notice]continue size:77594624 size1:171475544
+[2025-05-29 19:51:51][notice]start upload.
+[2025-05-29 19:51:51][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:74 MB
+[2025-05-29 19:51:51][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:79691776
+[2025-05-29 19:51:51][notice]continue size:79691776 size1:171475544
+[2025-05-29 19:51:53][notice]start upload.
+[2025-05-29 19:51:53][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:76 MB
+[2025-05-29 19:51:53][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:81788928
+[2025-05-29 19:51:53][notice]continue size:81788928 size1:171475544
+[2025-05-29 19:51:55][notice]start upload.
+[2025-05-29 19:51:55][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:78 MB
+[2025-05-29 19:51:55][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:83886080
+[2025-05-29 19:51:55][notice]continue size:83886080 size1:171475544
+[2025-05-29 19:51:57][notice]start upload.
+[2025-05-29 19:51:57][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:80 MB
+[2025-05-29 19:51:57][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:85983232
+[2025-05-29 19:51:57][notice]continue size:85983232 size1:171475544
+[2025-05-29 19:51:59][notice]start upload.
+[2025-05-29 19:51:59][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:82 MB
+[2025-05-29 19:51:59][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:88080384
+[2025-05-29 19:51:59][notice]continue size:88080384 size1:171475544
+[2025-05-29 19:52:02][notice]start upload.
+[2025-05-29 19:52:02][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:84 MB
+[2025-05-29 19:52:02][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:90177536
+[2025-05-29 19:52:02][notice]continue size:90177536 size1:171475544
+[2025-05-29 19:52:04][notice]start upload.
+[2025-05-29 19:52:04][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:86 MB
+[2025-05-29 19:52:04][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:92274688
+[2025-05-29 19:52:04][notice]continue size:92274688 size1:171475544
+[2025-05-29 19:52:07][notice]start upload.
+[2025-05-29 19:52:07][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:88 MB
+[2025-05-29 19:52:07][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:94371840
+[2025-05-29 19:52:07][notice]continue size:94371840 size1:171475544
+[2025-05-29 19:52:10][notice]start upload.
+[2025-05-29 19:52:10][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:90 MB
+[2025-05-29 19:52:10][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:96468992
+[2025-05-29 19:52:10][notice]continue size:96468992 size1:171475544
+[2025-05-29 19:52:12][notice]start upload.
+[2025-05-29 19:52:12][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:92 MB
+[2025-05-29 19:52:12][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:98566144
+[2025-05-29 19:52:12][notice]continue size:98566144 size1:171475544
+[2025-05-29 19:52:14][notice]start upload.
+[2025-05-29 19:52:14][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:94 MB
+[2025-05-29 19:52:14][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:100663296
+[2025-05-29 19:52:14][notice]continue size:100663296 size1:171475544
+[2025-05-29 19:52:16][notice]start upload.
+[2025-05-29 19:52:16][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:96 MB
+[2025-05-29 19:52:16][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:102760448
+[2025-05-29 19:52:16][notice]continue size:102760448 size1:171475544
+[2025-05-29 19:52:18][notice]start upload.
+[2025-05-29 19:52:18][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:98 MB
+[2025-05-29 19:52:18][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:104857600
+[2025-05-29 19:52:18][notice]continue size:104857600 size1:171475544
+[2025-05-29 19:52:20][notice]start upload.
+[2025-05-29 19:52:20][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:100 MB
+[2025-05-29 19:52:20][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:106954752
+[2025-05-29 19:52:20][notice]continue size:106954752 size1:171475544
+[2025-05-29 19:52:22][notice]start upload.
+[2025-05-29 19:52:22][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:102 MB
+[2025-05-29 19:52:22][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:109051904
+[2025-05-29 19:52:22][notice]continue size:109051904 size1:171475544
+[2025-05-29 19:52:24][notice]start upload.
+[2025-05-29 19:52:24][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:104 MB
+[2025-05-29 19:52:24][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:111149056
+[2025-05-29 19:52:24][notice]continue size:111149056 size1:171475544
+[2025-05-29 19:52:27][notice]start upload.
+[2025-05-29 19:52:27][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:106 MB
+[2025-05-29 19:52:27][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:113246208
+[2025-05-29 19:52:27][notice]continue size:113246208 size1:171475544
+[2025-05-29 19:52:29][notice]start upload.
+[2025-05-29 19:52:29][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:108 MB
+[2025-05-29 19:52:29][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:115343360
+[2025-05-29 19:52:29][notice]continue size:115343360 size1:171475544
+[2025-05-29 19:52:31][notice]start upload.
+[2025-05-29 19:52:31][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:110 MB
+[2025-05-29 19:52:31][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:117440512
+[2025-05-29 19:52:31][notice]continue size:117440512 size1:171475544
+[2025-05-29 19:52:33][notice]start upload.
+[2025-05-29 19:52:33][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:112 MB
+[2025-05-29 19:52:33][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:119537664
+[2025-05-29 19:52:33][notice]continue size:119537664 size1:171475544
+[2025-05-29 19:52:35][notice]start upload.
+[2025-05-29 19:52:35][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:114 MB
+[2025-05-29 19:52:35][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:121634816
+[2025-05-29 19:52:35][notice]continue size:121634816 size1:171475544
+[2025-05-29 19:52:37][notice]start upload.
+[2025-05-29 19:52:37][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:116 MB
+[2025-05-29 19:52:37][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:123731968
+[2025-05-29 19:52:37][notice]continue size:123731968 size1:171475544
+[2025-05-29 19:52:39][notice]start upload.
+[2025-05-29 19:52:39][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:118 MB
+[2025-05-29 19:52:39][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:125829120
+[2025-05-29 19:52:39][notice]continue size:125829120 size1:171475544
+[2025-05-29 19:52:41][notice]start upload.
+[2025-05-29 19:52:41][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:120 MB
+[2025-05-29 19:52:41][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:127926272
+[2025-05-29 19:52:41][notice]continue size:127926272 size1:171475544
+[2025-05-29 19:52:43][notice]start upload.
+[2025-05-29 19:52:43][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:122 MB
+[2025-05-29 19:52:43][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:130023424
+[2025-05-29 19:52:43][notice]continue size:130023424 size1:171475544
+[2025-05-29 19:52:45][notice]start upload.
+[2025-05-29 19:52:45][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:124 MB
+[2025-05-29 19:52:45][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:132120576
+[2025-05-29 19:52:45][notice]continue size:132120576 size1:171475544
+[2025-05-29 19:52:47][notice]start upload.
+[2025-05-29 19:52:47][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:126 MB
+[2025-05-29 19:52:47][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:134217728
+[2025-05-29 19:52:47][notice]continue size:134217728 size1:171475544
+[2025-05-29 19:52:49][notice]start upload.
+[2025-05-29 19:52:49][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:128 MB
+[2025-05-29 19:52:49][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:136314880
+[2025-05-29 19:52:49][notice]continue size:136314880 size1:171475544
+[2025-05-29 19:52:51][notice]start upload.
+[2025-05-29 19:52:51][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:130 MB
+[2025-05-29 19:52:51][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:138412032
+[2025-05-29 19:52:51][notice]continue size:138412032 size1:171475544
+[2025-05-29 19:52:53][notice]start upload.
+[2025-05-29 19:52:53][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:132 MB
+[2025-05-29 19:52:53][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:140509184
+[2025-05-29 19:52:53][notice]continue size:140509184 size1:171475544
+[2025-05-29 19:52:55][notice]start upload.
+[2025-05-29 19:52:55][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:134 MB
+[2025-05-29 19:52:55][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:142606336
+[2025-05-29 19:52:55][notice]continue size:142606336 size1:171475544
+[2025-05-29 19:52:58][notice]start upload.
+[2025-05-29 19:52:58][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:136 MB
+[2025-05-29 19:52:58][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:144703488
+[2025-05-29 19:52:58][notice]continue size:144703488 size1:171475544
+[2025-05-29 19:53:00][notice]start upload.
+[2025-05-29 19:53:00][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:138 MB
+[2025-05-29 19:53:00][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:146800640
+[2025-05-29 19:53:00][notice]continue size:146800640 size1:171475544
+[2025-05-29 19:53:02][notice]start upload.
+[2025-05-29 19:53:02][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:140 MB
+[2025-05-29 19:53:02][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:148897792
+[2025-05-29 19:53:02][notice]continue size:148897792 size1:171475544
+[2025-05-29 19:53:04][notice]start upload.
+[2025-05-29 19:53:04][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:142 MB
+[2025-05-29 19:53:04][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:150994944
+[2025-05-29 19:53:04][notice]continue size:150994944 size1:171475544
+[2025-05-29 19:53:06][notice]start upload.
+[2025-05-29 19:53:06][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:144 MB
+[2025-05-29 19:53:06][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:153092096
+[2025-05-29 19:53:06][notice]continue size:153092096 size1:171475544
+[2025-05-29 19:53:08][notice]start upload.
+[2025-05-29 19:53:08][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:146 MB
+[2025-05-29 19:53:08][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:155189248
+[2025-05-29 19:53:08][notice]continue size:155189248 size1:171475544
+[2025-05-29 19:53:10][notice]start upload.
+[2025-05-29 19:53:10][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:148 MB
+[2025-05-29 19:53:10][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:157286400
+[2025-05-29 19:53:10][notice]continue size:157286400 size1:171475544
+[2025-05-29 19:53:12][notice]start upload.
+[2025-05-29 19:53:12][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:150 MB
+[2025-05-29 19:53:12][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:159383552
+[2025-05-29 19:53:12][notice]continue size:159383552 size1:171475544
+[2025-05-29 19:53:14][notice]start upload.
+[2025-05-29 19:53:14][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:152 MB
+[2025-05-29 19:53:14][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:161480704
+[2025-05-29 19:53:14][notice]continue size:161480704 size1:171475544
+[2025-05-29 19:53:16][notice]start upload.
+[2025-05-29 19:53:16][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:154 MB
+[2025-05-29 19:53:16][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:163577856
+[2025-05-29 19:53:16][notice]continue size:163577856 size1:171475544
+[2025-05-29 19:53:18][notice]start upload.
+[2025-05-29 19:53:18][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:156 MB
+[2025-05-29 19:53:18][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:165675008
+[2025-05-29 19:53:18][notice]continue size:165675008 size1:171475544
+[2025-05-29 19:53:20][notice]start upload.
+[2025-05-29 19:53:20][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:158 MB
+[2025-05-29 19:53:21][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:167772160
+[2025-05-29 19:53:21][notice]continue size:167772160 size1:171475544
+[2025-05-29 19:53:23][notice]start upload.
+[2025-05-29 19:53:23][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:160 MB
+[2025-05-29 19:53:23][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:169869312
+[2025-05-29 19:53:23][notice]continue size:169869312 size1:171475544
+[2025-05-29 19:53:24][notice]start upload.
+[2025-05-29 19:53:24][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip offset:162 MB
+[2025-05-29 19:53:24][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip success size:171475544
+[2025-05-29 19:53:25][notice]rename temp file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip to new name:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid-f0982ed56a1e8_2025-05-29-19-47_backup_all.part001.zip
+[2025-05-29 19:53:28][notice]start upload.
+[2025-05-29 19:53:28][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:0 B
+[2025-05-29 19:53:28][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:2097152
+[2025-05-29 19:53:28][notice]continue size:2097152 size1:142267568
+[2025-05-29 19:53:30][notice]start upload.
+[2025-05-29 19:53:30][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:2 MB
+[2025-05-29 19:53:30][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:4194304
+[2025-05-29 19:53:30][notice]continue size:4194304 size1:142267568
+[2025-05-29 19:53:32][notice]start upload.
+[2025-05-29 19:53:32][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:4 MB
+[2025-05-29 19:53:32][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:6291456
+[2025-05-29 19:53:32][notice]continue size:6291456 size1:142267568
+[2025-05-29 19:53:34][notice]start upload.
+[2025-05-29 19:53:34][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:6 MB
+[2025-05-29 19:53:34][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:8388608
+[2025-05-29 19:53:34][notice]continue size:8388608 size1:142267568
+[2025-05-29 19:53:36][notice]start upload.
+[2025-05-29 19:53:36][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:8 MB
+[2025-05-29 19:53:36][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:10485760
+[2025-05-29 19:53:36][notice]continue size:10485760 size1:142267568
+[2025-05-29 19:53:38][notice]start upload.
+[2025-05-29 19:53:38][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:10 MB
+[2025-05-29 19:53:38][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:12582912
+[2025-05-29 19:53:38][notice]continue size:12582912 size1:142267568
+[2025-05-29 19:53:40][notice]start upload.
+[2025-05-29 19:53:40][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:12 MB
+[2025-05-29 19:53:40][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:14680064
+[2025-05-29 19:53:40][notice]continue size:14680064 size1:142267568
+[2025-05-29 19:53:42][notice]start upload.
+[2025-05-29 19:53:42][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:14 MB
+[2025-05-29 19:53:42][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:16777216
+[2025-05-29 19:53:42][notice]continue size:16777216 size1:142267568
+[2025-05-29 19:53:44][notice]start upload.
+[2025-05-29 19:53:44][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:16 MB
+[2025-05-29 19:53:44][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:18874368
+[2025-05-29 19:53:44][notice]continue size:18874368 size1:142267568
+[2025-05-29 19:53:46][notice]start upload.
+[2025-05-29 19:53:46][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:18 MB
+[2025-05-29 19:53:46][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:20971520
+[2025-05-29 19:53:46][notice]continue size:20971520 size1:142267568
+[2025-05-29 19:53:48][notice]start upload.
+[2025-05-29 19:53:48][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:20 MB
+[2025-05-29 19:53:48][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:23068672
+[2025-05-29 19:53:48][notice]continue size:23068672 size1:142267568
+[2025-05-29 19:53:50][notice]start upload.
+[2025-05-29 19:53:50][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:22 MB
+[2025-05-29 19:53:50][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:25165824
+[2025-05-29 19:53:50][notice]continue size:25165824 size1:142267568
+[2025-05-29 19:53:52][notice]start upload.
+[2025-05-29 19:53:52][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:24 MB
+[2025-05-29 19:53:52][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:27262976
+[2025-05-29 19:53:52][notice]continue size:27262976 size1:142267568
+[2025-05-29 19:53:54][notice]start upload.
+[2025-05-29 19:53:54][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:26 MB
+[2025-05-29 19:53:54][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:29360128
+[2025-05-29 19:53:54][notice]continue size:29360128 size1:142267568
+[2025-05-29 19:53:56][notice]start upload.
+[2025-05-29 19:53:56][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:28 MB
+[2025-05-29 19:53:56][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:31457280
+[2025-05-29 19:53:56][notice]continue size:31457280 size1:142267568
+[2025-05-29 19:53:58][notice]start upload.
+[2025-05-29 19:53:58][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:30 MB
+[2025-05-29 19:53:58][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:33554432
+[2025-05-29 19:53:58][notice]continue size:33554432 size1:142267568
+[2025-05-29 19:54:00][notice]start upload.
+[2025-05-29 19:54:00][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:32 MB
+[2025-05-29 19:54:00][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:35651584
+[2025-05-29 19:54:00][notice]continue size:35651584 size1:142267568
+[2025-05-29 19:54:02][notice]start upload.
+[2025-05-29 19:54:02][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:34 MB
+[2025-05-29 19:54:02][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:37748736
+[2025-05-29 19:54:02][notice]continue size:37748736 size1:142267568
+[2025-05-29 19:54:04][notice]start upload.
+[2025-05-29 19:54:04][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:36 MB
+[2025-05-29 19:54:04][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:39845888
+[2025-05-29 19:54:04][notice]continue size:39845888 size1:142267568
+[2025-05-29 19:54:06][notice]start upload.
+[2025-05-29 19:54:06][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:38 MB
+[2025-05-29 19:54:06][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:41943040
+[2025-05-29 19:54:06][notice]continue size:41943040 size1:142267568
+[2025-05-29 19:54:08][notice]start upload.
+[2025-05-29 19:54:08][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:40 MB
+[2025-05-29 19:54:08][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:44040192
+[2025-05-29 19:54:08][notice]continue size:44040192 size1:142267568
+[2025-05-29 19:54:10][notice]start upload.
+[2025-05-29 19:54:10][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:42 MB
+[2025-05-29 19:54:10][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:46137344
+[2025-05-29 19:54:10][notice]continue size:46137344 size1:142267568
+[2025-05-29 19:54:13][notice]start upload.
+[2025-05-29 19:54:13][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:44 MB
+[2025-05-29 19:54:13][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:48234496
+[2025-05-29 19:54:13][notice]continue size:48234496 size1:142267568
+[2025-05-29 19:54:15][notice]start upload.
+[2025-05-29 19:54:15][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:46 MB
+[2025-05-29 19:54:15][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:50331648
+[2025-05-29 19:54:15][notice]continue size:50331648 size1:142267568
+[2025-05-29 19:54:17][notice]start upload.
+[2025-05-29 19:54:17][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:48 MB
+[2025-05-29 19:54:17][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:52428800
+[2025-05-29 19:54:17][notice]continue size:52428800 size1:142267568
+[2025-05-29 19:54:19][notice]start upload.
+[2025-05-29 19:54:19][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:50 MB
+[2025-05-29 19:54:19][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:54525952
+[2025-05-29 19:54:19][notice]continue size:54525952 size1:142267568
+[2025-05-29 19:54:21][notice]start upload.
+[2025-05-29 19:54:21][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:52 MB
+[2025-05-29 19:54:21][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:56623104
+[2025-05-29 19:54:21][notice]continue size:56623104 size1:142267568
+[2025-05-29 19:54:23][notice]start upload.
+[2025-05-29 19:54:23][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:54 MB
+[2025-05-29 19:54:23][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:58720256
+[2025-05-29 19:54:23][notice]continue size:58720256 size1:142267568
+[2025-05-29 19:54:25][notice]start upload.
+[2025-05-29 19:54:25][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:56 MB
+[2025-05-29 19:54:25][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:60817408
+[2025-05-29 19:54:25][notice]continue size:60817408 size1:142267568
+[2025-05-29 19:54:27][notice]start upload.
+[2025-05-29 19:54:27][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:58 MB
+[2025-05-29 19:54:27][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:62914560
+[2025-05-29 19:54:27][notice]continue size:62914560 size1:142267568
+[2025-05-29 19:54:29][notice]start upload.
+[2025-05-29 19:54:29][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:60 MB
+[2025-05-29 19:54:29][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:65011712
+[2025-05-29 19:54:29][notice]continue size:65011712 size1:142267568
+[2025-05-29 19:54:31][notice]start upload.
+[2025-05-29 19:54:31][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:62 MB
+[2025-05-29 19:54:31][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:67108864
+[2025-05-29 19:54:31][notice]continue size:67108864 size1:142267568
+[2025-05-29 19:54:33][notice]start upload.
+[2025-05-29 19:54:33][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:64 MB
+[2025-05-29 19:54:33][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:69206016
+[2025-05-29 19:54:33][notice]continue size:69206016 size1:142267568
+[2025-05-29 19:54:35][notice]start upload.
+[2025-05-29 19:54:35][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:66 MB
+[2025-05-29 19:54:35][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:71303168
+[2025-05-29 19:54:35][notice]continue size:71303168 size1:142267568
+[2025-05-29 19:54:37][notice]start upload.
+[2025-05-29 19:54:37][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:68 MB
+[2025-05-29 19:54:37][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:73400320
+[2025-05-29 19:54:37][notice]continue size:73400320 size1:142267568
+[2025-05-29 19:54:39][notice]start upload.
+[2025-05-29 19:54:39][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:70 MB
+[2025-05-29 19:54:39][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:75497472
+[2025-05-29 19:54:39][notice]continue size:75497472 size1:142267568
+[2025-05-29 19:54:41][notice]start upload.
+[2025-05-29 19:54:41][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:72 MB
+[2025-05-29 19:54:41][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:77594624
+[2025-05-29 19:54:41][notice]continue size:77594624 size1:142267568
+[2025-05-29 19:54:43][notice]start upload.
+[2025-05-29 19:54:43][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:74 MB
+[2025-05-29 19:54:43][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:79691776
+[2025-05-29 19:54:43][notice]continue size:79691776 size1:142267568
+[2025-05-29 19:54:45][notice]start upload.
+[2025-05-29 19:54:45][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:76 MB
+[2025-05-29 19:54:45][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:81788928
+[2025-05-29 19:54:45][notice]continue size:81788928 size1:142267568
+[2025-05-29 19:54:47][notice]start upload.
+[2025-05-29 19:54:47][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:78 MB
+[2025-05-29 19:54:47][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:83886080
+[2025-05-29 19:54:47][notice]continue size:83886080 size1:142267568
+[2025-05-29 19:54:49][notice]start upload.
+[2025-05-29 19:54:49][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:80 MB
+[2025-05-29 19:54:49][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:85983232
+[2025-05-29 19:54:49][notice]continue size:85983232 size1:142267568
+[2025-05-29 19:54:52][notice]start upload.
+[2025-05-29 19:54:52][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:82 MB
+[2025-05-29 19:54:52][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:88080384
+[2025-05-29 19:54:52][notice]continue size:88080384 size1:142267568
+[2025-05-29 19:54:55][notice]start upload.
+[2025-05-29 19:54:55][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:84 MB
+[2025-05-29 19:54:55][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:90177536
+[2025-05-29 19:54:55][notice]continue size:90177536 size1:142267568
+[2025-05-29 19:54:57][notice]start upload.
+[2025-05-29 19:54:57][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:86 MB
+[2025-05-29 19:54:57][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:92274688
+[2025-05-29 19:54:57][notice]continue size:92274688 size1:142267568
+[2025-05-29 19:54:59][notice]start upload.
+[2025-05-29 19:54:59][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:88 MB
+[2025-05-29 19:54:59][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:94371840
+[2025-05-29 19:54:59][notice]continue size:94371840 size1:142267568
+[2025-05-29 19:55:01][notice]start upload.
+[2025-05-29 19:55:01][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:90 MB
+[2025-05-29 19:55:01][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:96468992
+[2025-05-29 19:55:01][notice]continue size:96468992 size1:142267568
+[2025-05-29 19:55:03][notice]start upload.
+[2025-05-29 19:55:03][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:92 MB
+[2025-05-29 19:55:03][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:98566144
+[2025-05-29 19:55:03][notice]continue size:98566144 size1:142267568
+[2025-05-29 19:55:05][notice]start upload.
+[2025-05-29 19:55:05][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:94 MB
+[2025-05-29 19:55:05][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:100663296
+[2025-05-29 19:55:05][notice]continue size:100663296 size1:142267568
+[2025-05-29 19:55:07][notice]start upload.
+[2025-05-29 19:55:07][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:96 MB
+[2025-05-29 19:55:07][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:102760448
+[2025-05-29 19:55:07][notice]continue size:102760448 size1:142267568
+[2025-05-29 19:55:09][notice]start upload.
+[2025-05-29 19:55:09][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:98 MB
+[2025-05-29 19:55:09][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:104857600
+[2025-05-29 19:55:09][notice]continue size:104857600 size1:142267568
+[2025-05-29 19:55:11][notice]start upload.
+[2025-05-29 19:55:11][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:100 MB
+[2025-05-29 19:55:11][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:106954752
+[2025-05-29 19:55:11][notice]continue size:106954752 size1:142267568
+[2025-05-29 19:55:13][notice]start upload.
+[2025-05-29 19:55:13][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:102 MB
+[2025-05-29 19:55:13][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:109051904
+[2025-05-29 19:55:13][notice]continue size:109051904 size1:142267568
+[2025-05-29 19:55:15][notice]start upload.
+[2025-05-29 19:55:15][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:104 MB
+[2025-05-29 19:55:15][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:111149056
+[2025-05-29 19:55:15][notice]continue size:111149056 size1:142267568
+[2025-05-29 19:55:17][notice]start upload.
+[2025-05-29 19:55:17][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:106 MB
+[2025-05-29 19:55:17][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:113246208
+[2025-05-29 19:55:17][notice]continue size:113246208 size1:142267568
+[2025-05-29 19:55:19][notice]start upload.
+[2025-05-29 19:55:19][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:108 MB
+[2025-05-29 19:55:19][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:115343360
+[2025-05-29 19:55:19][notice]continue size:115343360 size1:142267568
+[2025-05-29 19:55:21][notice]start upload.
+[2025-05-29 19:55:21][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:110 MB
+[2025-05-29 19:55:21][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:117440512
+[2025-05-29 19:55:21][notice]continue size:117440512 size1:142267568
+[2025-05-29 19:55:23][notice]start upload.
+[2025-05-29 19:55:23][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:112 MB
+[2025-05-29 19:55:23][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:119537664
+[2025-05-29 19:55:23][notice]continue size:119537664 size1:142267568
+[2025-05-29 19:55:25][notice]start upload.
+[2025-05-29 19:55:25][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:114 MB
+[2025-05-29 19:55:25][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:121634816
+[2025-05-29 19:55:25][notice]continue size:121634816 size1:142267568
+[2025-05-29 19:55:27][notice]start upload.
+[2025-05-29 19:55:27][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:116 MB
+[2025-05-29 19:55:27][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:123731968
+[2025-05-29 19:55:27][notice]continue size:123731968 size1:142267568
+[2025-05-29 19:55:29][notice]start upload.
+[2025-05-29 19:55:29][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:118 MB
+[2025-05-29 19:55:29][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:125829120
+[2025-05-29 19:55:29][notice]continue size:125829120 size1:142267568
+[2025-05-29 19:55:32][notice]start upload.
+[2025-05-29 19:55:32][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:120 MB
+[2025-05-29 19:55:32][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:127926272
+[2025-05-29 19:55:32][notice]continue size:127926272 size1:142267568
+[2025-05-29 19:55:34][notice]start upload.
+[2025-05-29 19:55:34][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:122 MB
+[2025-05-29 19:55:34][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:130023424
+[2025-05-29 19:55:34][notice]continue size:130023424 size1:142267568
+[2025-05-29 19:55:36][notice]start upload.
+[2025-05-29 19:55:36][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:124 MB
+[2025-05-29 19:55:36][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:132120576
+[2025-05-29 19:55:36][notice]continue size:132120576 size1:142267568
+[2025-05-29 19:55:38][notice]start upload.
+[2025-05-29 19:55:38][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:126 MB
+[2025-05-29 19:55:38][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:134217728
+[2025-05-29 19:55:38][notice]continue size:134217728 size1:142267568
+[2025-05-29 19:55:40][notice]start upload.
+[2025-05-29 19:55:40][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:128 MB
+[2025-05-29 19:55:40][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:136314880
+[2025-05-29 19:55:40][notice]continue size:136314880 size1:142267568
+[2025-05-29 19:55:42][notice]start upload.
+[2025-05-29 19:55:42][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:130 MB
+[2025-05-29 19:55:42][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:138412032
+[2025-05-29 19:55:42][notice]continue size:138412032 size1:142267568
+[2025-05-29 19:55:44][notice]start upload.
+[2025-05-29 19:55:44][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:132 MB
+[2025-05-29 19:55:44][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:140509184
+[2025-05-29 19:55:44][notice]continue size:140509184 size1:142267568
+[2025-05-29 19:55:46][notice]start upload.
+[2025-05-29 19:55:46][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip offset:134 MB
+[2025-05-29 19:55:46][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip success size:142267568
+[2025-05-29 19:55:47][notice]rename temp file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip to new name:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid-f0982ed56a1e8_2025-05-29-19-47_backup_all.part002.zip
+[2025-05-29 19:55:50][notice]start upload.
+[2025-05-29 19:55:50][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:0 B
+[2025-05-29 19:55:50][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:2097152
+[2025-05-29 19:55:50][notice]continue size:2097152 size1:93434889
+[2025-05-29 19:55:52][notice]start upload.
+[2025-05-29 19:55:52][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:2 MB
+[2025-05-29 19:55:52][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:4194304
+[2025-05-29 19:55:52][notice]continue size:4194304 size1:93434889
+[2025-05-29 19:55:54][notice]start upload.
+[2025-05-29 19:55:54][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:4 MB
+[2025-05-29 19:55:54][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:6291456
+[2025-05-29 19:55:54][notice]continue size:6291456 size1:93434889
+[2025-05-29 19:55:56][notice]start upload.
+[2025-05-29 19:55:56][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:6 MB
+[2025-05-29 19:55:56][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:8388608
+[2025-05-29 19:55:56][notice]continue size:8388608 size1:93434889
+[2025-05-29 19:55:58][notice]start upload.
+[2025-05-29 19:55:58][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:8 MB
+[2025-05-29 19:55:58][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:10485760
+[2025-05-29 19:55:58][notice]continue size:10485760 size1:93434889
+[2025-05-29 19:56:00][notice]start upload.
+[2025-05-29 19:56:00][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:10 MB
+[2025-05-29 19:56:00][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:12582912
+[2025-05-29 19:56:00][notice]continue size:12582912 size1:93434889
+[2025-05-29 19:56:02][notice]start upload.
+[2025-05-29 19:56:02][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:12 MB
+[2025-05-29 19:56:02][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:14680064
+[2025-05-29 19:56:02][notice]continue size:14680064 size1:93434889
+[2025-05-29 19:56:05][notice]start upload.
+[2025-05-29 19:56:05][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:14 MB
+[2025-05-29 19:56:05][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:16777216
+[2025-05-29 19:56:05][notice]continue size:16777216 size1:93434889
+[2025-05-29 19:56:07][notice]start upload.
+[2025-05-29 19:56:07][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:16 MB
+[2025-05-29 19:56:07][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:18874368
+[2025-05-29 19:56:07][notice]continue size:18874368 size1:93434889
+[2025-05-29 19:56:09][notice]start upload.
+[2025-05-29 19:56:09][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:18 MB
+[2025-05-29 19:56:09][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:20971520
+[2025-05-29 19:56:09][notice]continue size:20971520 size1:93434889
+[2025-05-29 19:56:12][notice]start upload.
+[2025-05-29 19:56:12][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:20 MB
+[2025-05-29 19:56:12][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:23068672
+[2025-05-29 19:56:12][notice]continue size:23068672 size1:93434889
+[2025-05-29 19:56:14][notice]start upload.
+[2025-05-29 19:56:14][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:22 MB
+[2025-05-29 19:56:14][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:25165824
+[2025-05-29 19:56:14][notice]continue size:25165824 size1:93434889
+[2025-05-29 19:56:16][notice]start upload.
+[2025-05-29 19:56:16][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:24 MB
+[2025-05-29 19:56:16][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:27262976
+[2025-05-29 19:56:16][notice]continue size:27262976 size1:93434889
+[2025-05-29 19:56:18][notice]start upload.
+[2025-05-29 19:56:18][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:26 MB
+[2025-05-29 19:56:18][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:29360128
+[2025-05-29 19:56:18][notice]continue size:29360128 size1:93434889
+[2025-05-29 19:56:20][notice]start upload.
+[2025-05-29 19:56:20][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:28 MB
+[2025-05-29 19:56:20][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:31457280
+[2025-05-29 19:56:20][notice]continue size:31457280 size1:93434889
+[2025-05-29 19:56:22][notice]start upload.
+[2025-05-29 19:56:22][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:30 MB
+[2025-05-29 19:56:22][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:33554432
+[2025-05-29 19:56:22][notice]continue size:33554432 size1:93434889
+[2025-05-29 19:56:24][notice]start upload.
+[2025-05-29 19:56:24][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:32 MB
+[2025-05-29 19:56:24][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:35651584
+[2025-05-29 19:56:24][notice]continue size:35651584 size1:93434889
+[2025-05-29 19:56:26][notice]start upload.
+[2025-05-29 19:56:26][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:34 MB
+[2025-05-29 19:56:26][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:37748736
+[2025-05-29 19:56:26][notice]continue size:37748736 size1:93434889
+[2025-05-29 19:56:28][notice]start upload.
+[2025-05-29 19:56:28][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:36 MB
+[2025-05-29 19:56:28][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:39845888
+[2025-05-29 19:56:28][notice]continue size:39845888 size1:93434889
+[2025-05-29 19:56:30][notice]start upload.
+[2025-05-29 19:56:30][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:38 MB
+[2025-05-29 19:56:30][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:41943040
+[2025-05-29 19:56:30][notice]continue size:41943040 size1:93434889
+[2025-05-29 19:56:32][notice]start upload.
+[2025-05-29 19:56:32][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:40 MB
+[2025-05-29 19:56:32][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:44040192
+[2025-05-29 19:56:32][notice]continue size:44040192 size1:93434889
+[2025-05-29 19:56:34][notice]start upload.
+[2025-05-29 19:56:34][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:42 MB
+[2025-05-29 19:56:34][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:46137344
+[2025-05-29 19:56:34][notice]continue size:46137344 size1:93434889
+[2025-05-29 19:56:36][notice]start upload.
+[2025-05-29 19:56:36][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:44 MB
+[2025-05-29 19:56:36][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:48234496
+[2025-05-29 19:56:36][notice]continue size:48234496 size1:93434889
+[2025-05-29 19:56:38][notice]start upload.
+[2025-05-29 19:56:38][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:46 MB
+[2025-05-29 19:56:38][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:50331648
+[2025-05-29 19:56:38][notice]continue size:50331648 size1:93434889
+[2025-05-29 19:56:41][notice]start upload.
+[2025-05-29 19:56:41][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:48 MB
+[2025-05-29 19:56:41][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:52428800
+[2025-05-29 19:56:41][notice]continue size:52428800 size1:93434889
+[2025-05-29 19:56:43][notice]start upload.
+[2025-05-29 19:56:43][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:50 MB
+[2025-05-29 19:56:43][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:54525952
+[2025-05-29 19:56:43][notice]continue size:54525952 size1:93434889
+[2025-05-29 19:56:45][notice]start upload.
+[2025-05-29 19:56:45][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:52 MB
+[2025-05-29 19:56:45][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:56623104
+[2025-05-29 19:56:45][notice]continue size:56623104 size1:93434889
+[2025-05-29 19:56:47][notice]start upload.
+[2025-05-29 19:56:47][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:54 MB
+[2025-05-29 19:56:47][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:58720256
+[2025-05-29 19:56:47][notice]continue size:58720256 size1:93434889
+[2025-05-29 19:56:49][notice]start upload.
+[2025-05-29 19:56:49][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:56 MB
+[2025-05-29 19:56:49][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:60817408
+[2025-05-29 19:56:49][notice]continue size:60817408 size1:93434889
+[2025-05-29 19:56:51][notice]start upload.
+[2025-05-29 19:56:51][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:58 MB
+[2025-05-29 19:56:51][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:62914560
+[2025-05-29 19:56:51][notice]continue size:62914560 size1:93434889
+[2025-05-29 19:56:53][notice]start upload.
+[2025-05-29 19:56:53][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:60 MB
+[2025-05-29 19:56:53][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:65011712
+[2025-05-29 19:56:53][notice]continue size:65011712 size1:93434889
+[2025-05-29 19:56:55][notice]start upload.
+[2025-05-29 19:56:55][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:62 MB
+[2025-05-29 19:56:55][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:67108864
+[2025-05-29 19:56:55][notice]continue size:67108864 size1:93434889
+[2025-05-29 19:56:57][notice]start upload.
+[2025-05-29 19:56:57][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:64 MB
+[2025-05-29 19:56:57][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:69206016
+[2025-05-29 19:56:57][notice]continue size:69206016 size1:93434889
+[2025-05-29 19:56:59][notice]start upload.
+[2025-05-29 19:56:59][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:66 MB
+[2025-05-29 19:56:59][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:71303168
+[2025-05-29 19:56:59][notice]continue size:71303168 size1:93434889
+[2025-05-29 19:57:01][notice]start upload.
+[2025-05-29 19:57:01][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:68 MB
+[2025-05-29 19:57:01][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:73400320
+[2025-05-29 19:57:01][notice]continue size:73400320 size1:93434889
+[2025-05-29 19:57:04][notice]start upload.
+[2025-05-29 19:57:04][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:70 MB
+[2025-05-29 19:57:04][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:75497472
+[2025-05-29 19:57:04][notice]continue size:75497472 size1:93434889
+[2025-05-29 19:57:06][notice]start upload.
+[2025-05-29 19:57:06][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:72 MB
+[2025-05-29 19:57:06][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:77594624
+[2025-05-29 19:57:06][notice]continue size:77594624 size1:93434889
+[2025-05-29 19:57:08][notice]start upload.
+[2025-05-29 19:57:08][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:74 MB
+[2025-05-29 19:57:08][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:79691776
+[2025-05-29 19:57:08][notice]continue size:79691776 size1:93434889
+[2025-05-29 19:57:10][notice]start upload.
+[2025-05-29 19:57:10][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:76 MB
+[2025-05-29 19:57:10][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:81788928
+[2025-05-29 19:57:10][notice]continue size:81788928 size1:93434889
+[2025-05-29 19:57:12][notice]start upload.
+[2025-05-29 19:57:12][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:78 MB
+[2025-05-29 19:57:12][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:83886080
+[2025-05-29 19:57:12][notice]continue size:83886080 size1:93434889
+[2025-05-29 19:57:14][notice]start upload.
+[2025-05-29 19:57:14][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:80 MB
+[2025-05-29 19:57:14][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:85983232
+[2025-05-29 19:57:14][notice]continue size:85983232 size1:93434889
+[2025-05-29 19:57:17][notice]start upload.
+[2025-05-29 19:57:17][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:82 MB
+[2025-05-29 19:57:17][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:88080384
+[2025-05-29 19:57:17][notice]continue size:88080384 size1:93434889
+[2025-05-29 19:57:19][notice]start upload.
+[2025-05-29 19:57:19][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:84 MB
+[2025-05-29 19:57:19][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:90177536
+[2025-05-29 19:57:19][notice]continue size:90177536 size1:93434889
+[2025-05-29 19:57:22][notice]start upload.
+[2025-05-29 19:57:22][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:86 MB
+[2025-05-29 19:57:22][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:92274688
+[2025-05-29 19:57:22][notice]continue size:92274688 size1:93434889
+[2025-05-29 19:57:23][notice]start upload.
+[2025-05-29 19:57:23][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip offset:88 MB
+[2025-05-29 19:57:23][notice]Write file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip success size:93434889
+[2025-05-29 19:57:23][notice]rename temp file:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid_temp-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip to new name:/home/sites/26a/8/8d30a0cd9c/public_html/wp-content/wpvividbackups/tailwindtheme.local_wpvivid-f0982ed56a1e8_2025-05-29-19-47_backup_all.part003.zip
+[2025-05-29 19:57:24][notice]upload finished
